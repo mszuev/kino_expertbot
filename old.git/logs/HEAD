@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 49b665b7c69150b60b88e80901879928ab674aad mzuev <mszuev@mail.ru> 1636475764 +0300	commit (initial): Initial commit
+49b665b7c69150b60b88e80901879928ab674aad d807e5a8f1496bd91a83840fccec4ded8b2e2a05 mzuev <mszuev@mail.ru> 1636558372 +0300	commit: Disable admin account logging
+d807e5a8f1496bd91a83840fccec4ded8b2e2a05 a1849b47a95d869c2710ff7338b48c76d181cc9f mzuev <mszuev@mail.ru> 1636559755 +0300	commit: Set webhook path heroku
+a1849b47a95d869c2710ff7338b48c76d181cc9f e5a53438162145e7ee4c8978d241e4c1a72c2de6 mzuev <mszuev@mail.ru> 1636646393 +0300	commit: add ping task
+e5a53438162145e7ee4c8978d241e4c1a72c2de6 a569968880bd30ec97db1814e29352a852b8b519 mzuev <mszuev@mail.ru> 1636648386 +0300	commit: Edit for public share
+a569968880bd30ec97db1814e29352a852b8b519 a569968880bd30ec97db1814e29352a852b8b519 mzuev <mszuev@mail.ru> 1636648903 +0300	checkout: moving from master to github
+a569968880bd30ec97db1814e29352a852b8b519 9684dc609e6643fcfbd649336bc434e05a0ddabc mzuev <mszuev@mail.ru> 1636649185 +0300	commit: Edit for public share
+9684dc609e6643fcfbd649336bc434e05a0ddabc 9684dc609e6643fcfbd649336bc434e05a0ddabc mzuev <mszuev@mail.ru> 1636649513 +0300	reset: moving to HEAD

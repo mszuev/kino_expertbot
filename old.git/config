@@ -1,0 +1,31 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/mszuev/telegrambot.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = git
+	merge = refs/heads/master
+[remote "github"]
+	url = https://github.com/mszuev/telegram-bot.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "git"]
+	url = https://github.com/mszuev/telegram-bot.git
+	fetch = +refs/heads/*:refs/remotes/git/*
+[remote "telegram-bot"]
+	url = https://github.com/mszuev/telegram-bot.git
+	fetch = +refs/heads/*:refs/remotes/telegram-bot/*
+[branch "github"]
+	remote = bot
+	merge = refs/heads/github
+[remote "telegrambot"]
+	url = https://github.com/mszuev/telegram-bot.git
+	fetch = +refs/heads/*:refs/remotes/telegrambot/*
+[remote "bot"]
+	url = https://github.com/mszuev/telegram-bot.git
+	fetch = +refs/heads/*:refs/remotes/bot/*
